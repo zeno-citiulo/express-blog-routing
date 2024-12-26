@@ -1,0 +1,19 @@
+{
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "description": "Implemetazione per il routing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeno-citiulo/express-blog-routing.git"
+  },
+  "author": "Zeno Citiulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeno-citiulo/express-blog-routing/issues"
+  },
+  "homepage": "https://github.com/zeno-citiulo/express-blog-routing#readme"
+}
